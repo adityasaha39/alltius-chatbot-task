@@ -1,0 +1,53 @@
+9 months of pre-natal care and a hospital delivery
+Plan’s overall deductible: $2,500
+Specialist [cost sharing]: $40
+Hospital (facility) [cost sharing]: 0%
+Other [cost sharing]: 0%
+This EXAMPLE event includes services like:
+- Specialist office visits (prenatal care)
+- Childbirth/Delivery Professional Services
+- Childbirth/Delivery Facility Services
+- Diagnostic tests (ultrasounds and blood work)
+- Specialist visit (anesthesia)
+Total pay is: $2,540
+Breakdown :
+- Deductibles: $2,500
+- Copayments: $40
+- Coinsurance: $0
+- Limits or exclusions: $0
+
+
+A year of routine care of a well-controlled condition
+Plan’s overall deductible: $2,500
+Specialist [cost sharing]: $40
+Hospital (facility) [cost sharing]: 80%
+Other [cost sharing]: 0%
+This EXAMPLE event includes services like:
+- Primary care physician office visits (including disease education)
+- Diagnostic tests (blood work)
+- Prescription drugs
+- Durable medical equipment (glucose meter)
+Total Cost: $1,000
+Breakdown:
+- Deductibles: $960
+- Copayments: $40
+- Coinsurance: $0
+- Limits or exclusions: $0
+
+
+Emergency room visit and follow-up care
+Plan’s overall deductible: $2,500
+Specialist [cost sharing]: $40
+Hospital (facility) [cost sharing]: 80%
+Other [cost sharing]: 0%
+This EXAMPLE event includes services like:
+- Emergency room care (including medical supplies)
+- Diagnostic test (x-ray)
+- Durable medical equipment (crutches)
+- Rehabilitation services (physical therapy)
+Total Cost: $2,540
+Breakdown:
+- Deductibles: $2,500
+- Copayments: $40
+- Coinsurance: $0
+- Limits or exclusions: $0
